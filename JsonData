@@ -8,16 +8,16 @@
   "city":"Delhi"
 }
 },
-{"name":"tanu",
-"age":"24",
+{"name":"deepu",
+"age":"26",
 "address":{
   "pincode":"110087",
   "city":"Delhi"
 }},
-{"name":"tanu",
-"age":"24",
+{"name":"prateek",
+"age":"27",
 "address":{
   "pincode":"110087",
-  "city":"Delhi"
+  "city":"Chennai"
 }}
 ]
